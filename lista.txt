@@ -2,6 +2,7 @@ Preciso comprar:
 
 maçã
 abacaxi
+uvas
 goiaba
 
 Essa é minha lista de compras.
